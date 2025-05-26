@@ -1,6 +1,13 @@
 ## Hi there 👋
+## Lenguaje de programacion
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?/style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-python-3776AB?/style=flat&logo=python&logoColor=white)
 
+## DATABASE
+![ORACLE](https://img.shields.io/badge/-Oracle-DA291C?/style=flat)
+![MYSQL](https://img.shields.io/badge/-mysql-4479A1?/style=flat&logo=mysql&logoColor=white)
 <!--
+
 **AxelRen/AxelRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
